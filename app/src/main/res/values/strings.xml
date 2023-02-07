@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="google">
+        Click <a href ="https://www.google.com"> here </a> to open google.
+
+
+    </string>
+</resources>
